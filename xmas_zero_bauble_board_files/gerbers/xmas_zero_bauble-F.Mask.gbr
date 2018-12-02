@@ -1,0 +1,25 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.0.1+dfsg1-2~bpo9+1*
+G04 #@! TF.CreationDate,2018-11-07T17:05:17+00:00*
+G04 #@! TF.ProjectId,xmas_zero_bauble,786D61735F7A65726F5F626175626C65,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Top*
+G04 #@! TF.FilePolarity,Negative*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.0.1+dfsg1-2~bpo9+1) date Wed 07 Nov 2018 17:05:17 GMT*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.100000*%
+G04 APERTURE END LIST*
+D10*
+G36*
+X204808560Y-85596680D02*
+X201408560Y-85596680D01*
+X201408560Y-71194980D01*
+X204808560Y-71194980D01*
+X204808560Y-85596680D01*
+X204808560Y-85596680D01*
+G37*
+M02*
